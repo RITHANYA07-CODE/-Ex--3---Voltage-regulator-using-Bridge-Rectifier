@@ -114,6 +114,6 @@ Record the regulated output voltage and compare it with the expected value.
 
 (Insert the Proteus output diagram here.)
 
-Result
+**Result**
 
 The Voltage Regulator using Bridge Rectifier circuit was successfully designed and simulated using Proteus software. The bridge rectifier converted the AC input into pulsating DC, the filter capacitor reduced the ripple voltage, and the 7805/7812 voltage regulator IC provided a stable regulated DC output. The simulation results confirmed the successful operation of the regulated power supply circuit, making it suitable for powering low-voltage electronic and embedded systems.

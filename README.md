@@ -1,30 +1,30 @@
 # -Ex--3---Voltage-regulator-using-Bridge-Rectifier
 
-**Aim **
+**Aim**
 
 To design, simulate, and analyze a regulated DC power supply using a bridge rectifier and voltage regulator IC in Proteus software, and to study the conversion of AC voltage into a stable DC output.
 
 **Apparatus Required**
 
-S.No	Components/Software	Specification
-
-1	Proteus Design Suite	Version 8.0 or above
-2	AC Voltage Source	230 V AC, 50 Hz
-3	Step-down Transformer	230 V / 12 V AC
-4	Bridge Rectifier	4 × 1N4007 Diodes
-5	Filter Capacitor	1000 µF, 25 V
-6	Ceramic Capacitor	0.1 µF
-7	Voltage Regulator IC	7805 (5 V) / 7812 (12 V)
-8	LED	Power Indicator
-9	Current Limiting Resistor	330 Ω or 1 kΩ
-10	Load Resistor	220 Ω – 1 kΩ
-11	DC Voltmeter	Virtual Instrument
-12	Oscilloscope	Virtual Instrument
-13	Ground Terminal	-
+| S.No | Components/Software | Specification |
+| :---: | :--- | :--- |
+| 1 | Proteus Design Suite | Version 8.0 or above |
+| 2 | AC Voltage Source | 230 V AC, 50 Hz |
+| 3 | Step-down Transformer | 230 V / 12 V AC |
+| 4 | Bridge Rectifier | 4 × 1N4007 Diodes |
+| 5 | Filter Capacitor | 1000 µF, 25 V |
+| 6 | Ceramic Capacitor | 0.1 µF |
+| 7 | Voltage Regulator IC | 7805 (5 V) / 7812 (12 V) |
+| 8 | LED | Power Indicator |
+| 9 | Current Limiting Resistor | 330 Ω or 1 kΩ |
+| 10 | Load Resistor | 220 Ω – 1 kΩ |
+| 11 | DC Voltmeter | Virtual Instrument |
+| 12 | Oscilloscope | Virtual Instrument |
+| 13 | Ground Terminal | — |
 
 **Circuit Diagram**
 
-(Insert the Proteus circuit diagram here.)
+<img width="1058" height="532" alt="Voltage Regulator Circuit" src="https://github.com/user-attachments/assets/7e105f42-dc94-4d88-a8c9-3a58e57f4df7" />
 
 **Theory**
 
@@ -112,7 +112,7 @@ Record the regulated output voltage and compare it with the expected value.
 
 **Output**
 
-(Insert the Proteus output diagram here.)
+<img width="1381" height="881" alt="Voltage Regulator output" src="https://github.com/user-attachments/assets/d1c18d94-ccdd-4267-a8be-bd842aefcbd8" />
 
 **Result**
 
